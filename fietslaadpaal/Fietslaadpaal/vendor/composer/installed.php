@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'laravel/laravel',
-        'pretty_version' => 'dev-5.-Laravel-+-React-Dashboard',
-        'version' => 'dev-5.-Laravel-+-React-Dashboard',
-        'reference' => '52c68bd0e98676f26cf40b6c258ea896ae73f8c4',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'a5e9a13871d44350832dd5e620a5a88ac210d5d4',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -386,9 +386,9 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => 'dev-5.-Laravel-+-React-Dashboard',
-            'version' => 'dev-5.-Laravel-+-React-Dashboard',
-            'reference' => '52c68bd0e98676f26cf40b6c258ea896ae73f8c4',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'a5e9a13871d44350832dd5e620a5a88ac210d5d4',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
